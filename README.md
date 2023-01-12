@@ -4,5 +4,7 @@
 
 ## :mortar_board: Fundamental Knowledge Base
 [torch_git]:https://github.com/Xcanton/TorchLearn
-<br>[torch study notebook][torch_git]</br>
+<br>[`torch study notebook`][torch_git]</br>
 ## :construction: Classic Network
+[lenet_notebook_git]:https://github.com/Xcanton/LeNetLearn
+<br>[`LeNet study notebook`][lenet_notebook_git]</br>
