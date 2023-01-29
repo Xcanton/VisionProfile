@@ -22,10 +22,17 @@
     $$Recall = \frac {TP}{TP + FN}$$
   - <b>_F-Score_</b>
     $$F_\beta Score = (1 + \beta^2) * \frac {Precision \times Recall}{\beta^2 \times Precision + Recall}$$
-    _*$\beta^2$ is the importance weight of Precision._
+    _*_ $\beta^2$ _is the importance weight of Precision. When_ $\beta^2$ _belongs to_ $(-1, 1)$ _means the <b>Precision</b> is more important than the <b>Recall</b> rate._
     
 - <b>Semantic segmentation Metrics</b>
+  - <b>_Pixel Accuracy (PA)_</b>
+  - <b>_Class Pixel Accuracy (CPA)_</b>
+  - <b>_Mean Pixel Accuracy (MPA)_</b>
 - <b>Intersection over Union (IoU)</b>
+  - <b>_IoU_</b>
+  - <b>_Generalized Intersection over Union (GIoU)_</b>
+  - <b>_Distance Intersection over Union (DIoU)_</b>
+  - <b>_Complete Intersection over Union (DIoU)_</b>
 
 ## :construction: Classic Network
 
