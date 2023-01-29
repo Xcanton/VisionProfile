@@ -32,11 +32,11 @@
   - <b>_IoU_</b>
     $$IoU = \frac {|A \cap B|}{|A \cup B|}$$
     _* where_ $A$ _and_ $B$ _are two arbitrary convex shapes that_ $A, B \subseteq S \in R^n$
-  - <b>_Generalized Intersection over Union (GIoU)_</b> [ :links: ][GIoU_Paper]
+  - <b>_Generalized Intersection over Union (GIoU)_</b> [ :link: ][GIoU_Paper]
     $$GIoU = IoU - \frac {|C - A \cup B|}{|C|}$$
     _* for_ $A$ _and_ $B$_, find the smallest enclosing convex object_ $C$_, where_ $C \subseteq S \in R^n$
-  - <b>_Distance Intersection over Union (DIoU)_</b> [ :links: ][CIoU&DIoU_Paper]
-  - <b>_Complete Intersection over Union (DIoU)_</b> [ :links: ][CIoU&DIoU_Paper]
+  - <b>_Distance Intersection over Union (DIoU)_</b> [ :link: ][CIoU&DIoU_Paper]
+  - <b>_Complete Intersection over Union (DIoU)_</b> [ :link: ][CIoU&DIoU_Paper]
 
 [GIoU_Paper]:https://arxiv.org/pdf/1902.09630.pdf
 [CIoU&DIoU_Paper]:https://arxiv.org/pdf/1911.08287.pdf
