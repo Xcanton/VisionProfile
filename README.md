@@ -30,6 +30,8 @@
   - <b>_Mean Pixel Accuracy (MPA)_</b>
 - <b>Intersection over Union (IoU)</b>
   - <b>_IoU_</b>
+    $$IoU = \frac {|A \cap B|}{|A \cup B|}$$
+    _* Where_ $A$ _and_ $B$ _are two arbitrary convex shapes that_ $A, B \subseteq S \in R^n$
   - <b>_Generalized Intersection over Union (GIoU)_</b>
   - <b>_Distance Intersection over Union (DIoU)_</b>
   - <b>_Complete Intersection over Union (DIoU)_</b>
