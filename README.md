@@ -39,13 +39,13 @@
     $$DIoU = IoU - \frac {\rho^2(b, b^gt)}{c^2}$$
     _* where_ $b$ _and_ $b^gt$ _denote the central points of_ $A$ _and_ $B$_,_ $\rho^2(\cdot)$ _is the <b>Euclidean distance</b>, and_ $c$ _is the diagonal length of the smallest enclosing box covering the two boxes._
   - <b>_Complete Intersection over Union (DIoU)_</b> [ :link: ][CIoU&DIoU_Paper]
-    $$
-    \begin{cases}
-    CIoU = DIoU - \alpha \upsilon \\
-    \upsilon = \frac {4}{\pi^2}(arctan\frac {\omega^gt}{h^gt} - arctan\frac {\omega}{h})^2 \\
-    \alpha = \frac {\upsilon}{(1 - IoU) + \upsilon} \\
-    \end{cases}
-    $$
+  $$
+  \begin{cases}
+  CIoU = DIoU - \alpha \upsilon \\
+  \upsilon = \frac {4}{\pi^2}(arctan\frac {\omega^{gt}}{h^{gt}} - arctan\frac {\omega}{h})^2 \\
+  \alpha = \frac {\upsilon}{(1 - IoU) + \upsilon} \\
+  \end{cases}
+  $$
     _* where_ $\alpha$ _is a positive trade-off parameter, and_ $upsilon$ _measures the consitency of aspect ratio._
 
 [GIoU_Paper]:https://arxiv.org/pdf/1902.09630.pdf
