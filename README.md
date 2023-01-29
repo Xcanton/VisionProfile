@@ -3,8 +3,31 @@
   &ensp;&ensp;&ensp;&ensp;Since this transformation is a tough job, I plan to achieve something simultaneously. Why not replicate the previous learning path in computer vision area. This profile records efferts that I did during this transformation, and part of the painful past exploring deep learning self-motivatedly. Thanks for not helping USTB. </br>
 
 ## :mortar_board: Fundamental Knowledge Base
+
 [torch_git]:https://github.com/Xcanton/TorchLearn
 <br>[`torch study notebook`][torch_git]</br>
+
+## :city_sunset: Performance Metrics
+- <b>General Metrics</b>
+  - <b>_Confusion Matrix_</b>
+    - _True Positive (TP)_
+    - _False Positive (FP)_
+    - _False Negative (FN)_
+    - _True Negative (TN)_
+  - <b>_Accuracy_</b>
+    $$Accuracy = \frac {TP + TN}{TP + TN + FP + FN}$$
+  - <b>_Precision_</b>
+    $$Precision = \frac {TP}{TP + FP}$$
+  - <b>_Recall_</b>
+    $$Recall = \frac {TP}{TP + FN}$$
+  - <b>_F-Score_</b>
+    $$F_\beta Score = (1 + \beta^2) * \frac {Precision \times Recall}{\beta^2 \times Precision + Recall}$$
+    _*$\beta^2$ is the importance weight of Precision._
+    
+- <b>Semantic segmentation Metrics</b>
+- <b>Intersection over Union (IoU)</b>
+
 ## :construction: Classic Network
+
 [lenet_notebook_git]:https://github.com/Xcanton/LeNetLearn
 <br>[`LeNet study notebook`][lenet_notebook_git]</br>
