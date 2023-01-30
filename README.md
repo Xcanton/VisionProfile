@@ -43,7 +43,7 @@
   \begin{cases}
   CIoU = DIoU - \alpha \upsilon \\
   \upsilon = \frac {4}{\pi^2}(arctan\frac {\omega^{gt}}{h^{gt}} - arctan\frac {\omega}{h})^2 \\
-  \alpha = \frac {\upsilon}{(1 - IoU) + \upsilon} \\
+  \alpha = \frac {\upsilon}{(1 - IoU) + \upsilon}
   \end{cases}
   $$
     _* where_ $\alpha$ _is a positive trade-off parameter, and_ $upsilon$ _measures the consitency of aspect ratio._
