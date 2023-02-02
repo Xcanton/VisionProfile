@@ -3,6 +3,7 @@
   &ensp;&ensp;&ensp;&ensp;Since this transformation is a tough job, I plan to achieve something simultaneously. Why not replicate the previous learning path in computer vision area. This profile records efferts that I did during this transformation, and part of the painful past exploring deep learning self-motivatedly. Thanks for not helping USTB. </br>
 
 [torch_git]:https://github.com/Xcanton/TorchLearn
+[data_enhancement_git]:https://github.com/Xcanton/DataEnhancementLearn
 [onnx_notebook_git]:https://github.com/Xcanton/OnnxInferenceLearn
 [lenet_notebook_git]:https://github.com/Xcanton/LeNetLearn
 [GIoU_Paper]:https://arxiv.org/pdf/1902.09630.pdf
@@ -10,6 +11,7 @@
 
 ## :mortar_board: Fundamental Knowledge Base
 <br>[`torch study notebook`][torch_git]</br>
+<br>[`data enhancement notebook`][data_enhancement_git]</br>
 
 ## :city_sunset: Performance Metrics
 - <b>General Metrics</b>
