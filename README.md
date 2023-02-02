@@ -11,7 +11,7 @@
 
 ## :mortar_board: Fundamental Knowledge Base
 <br>[`torch study notebook`][torch_git]</br>
-<br>[`data enhancement notebook`][data_enhancement_git]</br>
+[`data enhancement notebook`][data_enhancement_git]</br>
 
 ## :city_sunset: Performance Metrics
 - <b>General Metrics</b>
