@@ -12,6 +12,7 @@
 ## :mortar_board: Fundamental Knowledge Base
 <br>[`torch study notebook`][torch_git]</br>
 [`data enhancement notebook`][data_enhancement_git]</br>
+[`image modify tools`](https://github.com/opencv/cvat)</br>
 
 ## :city_sunset: Performance Metrics
 - <b>General Metrics</b>
