@@ -6,13 +6,15 @@
 [data_enhancement_git]:https://github.com/Xcanton/DataEnhancementLearn
 [onnx_notebook_git]:https://github.com/Xcanton/OnnxInferenceLearn
 [lenet_notebook_git]:https://github.com/Xcanton/LeNetLearn
+[training_framwork_git]:https://github.com/Xcanton/TorchTrainingFramework
 [GIoU_Paper]:https://arxiv.org/pdf/1902.09630.pdf
 [CIoU&DIoU_Paper]:https://arxiv.org/pdf/1911.08287.pdf
 
 ## :mortar_board: Fundamental Knowledge Base
 <br>[`torch study notebook`][torch_git]</br>
 [`data enhancement notebook`][data_enhancement_git]</br>
-[`image modify tools`](https://github.com/opencv/cvat)</br>
+[`image data label tools`](https://github.com/opencv/cvat)</br>
+[`training framework in torch`][training_framwork_git]</br>
 
 ## :city_sunset: Performance Metrics
 - <b>General Metrics</b>
