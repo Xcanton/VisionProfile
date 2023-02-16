@@ -6,6 +6,7 @@
 [data_enhancement_git]:https://github.com/Xcanton/DataEnhancementLearn
 [onnx_notebook_git]:https://github.com/Xcanton/OnnxInferenceLearn
 [lenet_notebook_git]:https://github.com/Xcanton/LeNetLearn
+[alexnet_notebook_git]:https://github.com/Xcanton/AlexNetLearn
 [training_framwork_git]:https://github.com/Xcanton/TorchTrainingFramework
 [GIoU_Paper]:https://arxiv.org/pdf/1902.09630.pdf
 [CIoU&DIoU_Paper]:https://arxiv.org/pdf/1911.08287.pdf
@@ -59,6 +60,7 @@
 
 ## :construction: Classic Network
 <br>[`LeNet study notebook`][lenet_notebook_git]</br>
+[`AlexNet study notebook`][alexnet_notebook_git]</br>
 
 ## :volcano: Model Inference
 <br>[`Model Inference via Onnx Notebook`][onnx_notebook_git]</br>
