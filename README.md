@@ -11,6 +11,7 @@
 [vggnet_notebook_git]:https://github.com/Xcanton/VGGNetLearn
 [ninnet_notebook_git]:https://github.com/Xcanton/NiNNetLearn
 [googlenet_notebook_git]:https://github.com/Xcanton/GoogleNetLearn
+[resnet_notebook_git]:https://github.com/Xcanton/ResNetLearn
 
 [training_framwork_git]:https://github.com/Xcanton/TorchTrainingFramework
 [GIoU_Paper]:https://arxiv.org/pdf/1902.09630.pdf
@@ -69,6 +70,7 @@
 [`VGGNet study notebook`][vggnet_notebook_git]</br>
 [`NiNNet study notebook`][ninnet_notebook_git]</br>
 [`GoogleNet study notebook`][googlenet_notebook_git]</br>
+[`ResNet study notebook`][resnet_notebook_git]</br>
 
 ## :volcano: Model Inference
 <br>[`Model Inference via Onnx Notebook`][onnx_notebook_git]</br>
